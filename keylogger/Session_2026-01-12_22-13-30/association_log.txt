@@ -1,0 +1,36 @@
+Screenshot: screen_22-13-35.png
+Time Interval: 22:13:30 to 22:13:35
+Keys Pressed: None
+--------------------------------------------------
+Screenshot: screen_22-13-40.png
+Time Interval: 22:13:35 to 22:13:40
+Keys Pressed: m i c r
+--------------------------------------------------
+Screenshot: screen_22-13-46.png
+Time Interval: 22:13:40 to 22:13:46
+Keys Pressed: o s o f t
+--------------------------------------------------
+Screenshot: screen_22-13-51.png
+Time Interval: 22:13:46 to 22:13:51
+Keys Pressed: Key.caps_lock h Key.caps_lock i Key.space , Key.space t
+--------------------------------------------------
+Screenshot: screen_22-13-56.png
+Time Interval: 22:13:51 to 22:13:56
+Keys Pressed: h i s Key.space i s Key.space k e y l o
+--------------------------------------------------
+Screenshot: screen_22-14-01.png
+Time Interval: 22:13:56 to 22:14:01
+Keys Pressed: g g e r Key.space w i t h Key.space a c
+--------------------------------------------------
+Screenshot: screen_22-14-06.png
+Time Interval: 22:14:01 to 22:14:06
+Keys Pressed: t i v e Key.space s c r e e n s
+--------------------------------------------------
+Screenshot: screen_22-14-12.png
+Time Interval: 22:14:06 to 22:14:12
+Keys Pressed: h o t Key.space c a p t u r e
+--------------------------------------------------
+Screenshot: screen_22-14-17.png
+Time Interval: 22:14:12 to 22:14:17
+Keys Pressed: . . .
+--------------------------------------------------
