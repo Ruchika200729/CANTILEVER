@@ -1,0 +1,87 @@
+⌨️ KeyLogger with Screenshot Association :
+
+📌 Description :
+
+This project is an educational Python application that records keyboard activity and periodically captures screenshots with explicit user consent.
+The program associates keystrokes with corresponding screenshots based on time intervals.
+
+🧠 Project Purpose :
+
+The goal of this project is to understand:
+
+Keyboard event handling
+
+Multithreading in Python
+
+Screenshot automation
+
+Time-based data association
+
+Ethical data collection with user consent
+
+🧰 Technologies Used :
+
+Python
+
+pynput (keyboard listener)
+
+pyautogui (screenshots)
+
+tkinter (GUI & consent dialog)
+
+Threading & datetime modules
+
+📁 Project Structure :
+
+keylogger_project/
+│
+├── keylogger.py
+│
+└── Session_YYYY-MM-DD_HH-MM-SS/
+    ├── keystrokes.txt
+    ├── association_log.txt
+    └── screenshots/
+        ├── screen_HH-MM-SS.png
+
+⚙️ Features :
+
+User consent popup before execution
+
+Keyboard logging with timestamps
+
+Screenshot capture at fixed intervals
+
+Automatic session folder creation
+
+Association of keystrokes with screenshots
+
+Multithreaded execution
+
+▶️ How It Works :
+
+The user is asked for consent before logging begins
+
+Keyboard input is recorded with timestamps
+
+Screenshots are taken at regular intervals
+
+Keystrokes occurring between screenshots are associated and logged
+
+All data is stored in a session-specific folder
+
+🔐 Ethical Notice :
+
+This project is created strictly for educational and learning purposes.
+User consent is mandatory, and the application should only be used in controlled, authorized environments.
+
+🎓 Learning Outcome :
+
+By completing this project, one gains hands-on experience with:
+
+Event-driven programming
+
+Thread synchronization
+
+File handling and logging
+
+Ethical considerations in system-level programming
